@@ -1,0 +1,6 @@
+use_frameworks!
+target 'minhouse_Tests' do
+  pod 'minhouse', :path => '../'
+  
+  
+end
