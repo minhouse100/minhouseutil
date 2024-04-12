@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 minhouse  staff   128  4 12 09:38 .
+drwxr-xr-x+ 62 minhouse  staff  1984  4 12 09:38 ..
+drwxr-xr-x   9 minhouse  staff   288  4 12 09:38 .git
+-rw-r--r--   1 minhouse  staff     0  4 12 09:38 aaaa.txt
