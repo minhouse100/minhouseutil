@@ -9,7 +9,7 @@ import UIKit
 
 public class MinhousePrint: NSObject {
     public class func printDateTime() {
-        print(Date()) ;
+        print("===========> ,\(Date())") ;
     }
 
 }
